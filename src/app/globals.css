@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.img-box-shadow {
+  box-shadow: .25rem .25rem 0rem rgb(255, 73, 73);
+}
